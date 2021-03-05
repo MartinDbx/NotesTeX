@@ -1,5 +1,6 @@
 # Announcement
-NotesTeX v3.0 was slightly delayed and will be here by the end of October, 2020. v3.0 will include expanded language support, a redesign of mathematical environments (e.g., theorems, definitions, and examples), removal of deprecated features, and support on additional latex engines, such as, but not limited to, xetex. This major overhaul will be pushed out to CTAN by the end of October after beta testing and feedback.
+
+>**Patch Note** Addition of [new environments](Sample/env.md) and support for French language.
 
 <p align="center">
 
@@ -8,30 +9,32 @@ NotesTeX v3.0 was slightly delayed and will be here by the end of October, 2020.
   <p align="center">
     <b>An All-In-One LaTeX Notes Package For Students.</b>
     <br>
-    <i>NotesTeX</i> is a modification of the original Jhep journal <br> format in order to suit the needs of students in university. 
+    <i>NotesTeX</i> is a modification of the original Jhep journal <br> format in order to suit the needs of students in university.
     <br>
     <br>
     &middot;
     <b>NotesTeX v2.1</b>
     &middot;
     <br>
-    &middot; 
+    &middot;
      <a href="https://ctan.org/pkg/notestex"><strong>CTAN &raquo;</strong></a>
     &middot;
   </p>
 </p>
 
 ## Table of contents
-- [Update](#update)
-- [Preview](#preview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [License](#license)
-- [Version and Contact](#version-and-contact) 
+- [Announcement](#announcement)
+  - [Table of contents](#table-of-contents)
+  - [Update](#update)
+  - [Preview](#preview)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Documentation](#documentation)
+  - [License](#license)
+  - [Version and Contact](#version-and-contact)
 
 ## Update
-**28/04/2018** 
+**28/04/2018**
 1. Changed the geometry package conditions to be more flexible.
 2. Devoted a subsection to alternative language integration in [NotesTeX.pdf](NoTeX/NotesTeX.pdf), specifically Persian.
 3. Discussed an issue with the ```twoside``` option.
@@ -103,7 +106,7 @@ This material is subject to the [LaTeX Project Public License](LICENSE).
 
 ## Version and Contact
 
-> NotesTeX v2.1.  
-> Created by Aditya Dhumuntarao.  
-> Date: 28 April, 2018.  
-> E-mail comments and suggestions to adhumunt@gmail.com.  
+> NotesTeX v2.1.
+> Created by Aditya Dhumuntarao.
+> Date: 28 April, 2018.
+> E-mail comments and suggestions to adhumunt@gmail.com.
